@@ -1,4 +1,3 @@
----
 # Go ToDo Application
 
 **Project:** Go ToDo App
