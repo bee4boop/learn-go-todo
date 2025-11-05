@@ -2,7 +2,7 @@
 # Go ToDo Application
 
 **Project:** Go ToDo App
-**Author:** [Your Name]
+**Author:** Vyacheslav
 **Technologies:** Go, PostgreSQL, Docker, Docker Compose
 
 ---
