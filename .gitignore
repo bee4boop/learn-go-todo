@@ -1,0 +1,38 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go modules
+/vendor/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+*.log
+
+# Environment variables
+.env
+
+# Docker
+docker-compose.override.yml
+*.pid
+
+# PostgreSQL data (если монтируешь локально)
+*.db
+*.sqlite
+
+# Build directories
+bin/
+build/
